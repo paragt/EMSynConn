@@ -1,6 +1,6 @@
 # EMSynConn
 One algorithm to detect synaptic location AND connectivity, both dyadic and polyadic.
 
-This is the implementation of the paper "Anonymous"
+This is the implementation of the paper: Detecting Synapse Location and Connectivity by Signed Proximity Estimation and Pruning with Deep Nets by Parag et.al., https://arxiv.org/abs/1807.02739
 
-There is an example script on how to run the commands, I will change it soon after I have tested them
+The code is built upon those of the Harvard VCG lab https://vcg.seas.harvard.edu/code-data.
